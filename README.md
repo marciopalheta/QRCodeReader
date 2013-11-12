@@ -10,3 +10,4 @@ Exemplos de Códigos:
 3. Como chamar uma Intent de outra App.
 4. Como iniciar atividades e aguardar o retorno.
 5. Como atualizar um Adapter, após atualização da sua List<T>
+6. Como guardar o estado de objetos da tela, quando do giro da tela
