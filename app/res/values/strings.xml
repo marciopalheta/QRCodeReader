@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeitorQRCode</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Adicionar à lista</string>
+    <string name="lerCB">Ler código de barras</string>
+    <string name="nome">Nome do produto</string>
+
+</resources>
